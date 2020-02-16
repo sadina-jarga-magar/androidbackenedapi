@@ -1,9 +1,8 @@
 # My E-Cosmetics App
-This is a skin care cosmetics app api, designed for the front end web api.
+This is a skin care cosmetics app api, designed for the android.
 
-## Completed Login and Signup route
-Through username and password
-## Completed category route
-For skin category
-## Completed Product route
-For skin product
+# Schema
+product,category,cart,users,order
+
+# Routes
+product, category,cart,users,order
